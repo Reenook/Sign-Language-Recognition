@@ -19,8 +19,8 @@ This project is a computer vision application designed to recognize and classify
 1. **Clone the Repository**:
 
 ```bash
-  git clone https://github.com/Reenook/Sign-Language-Gesture-Recognition.git
-  cd Sign-Language-Gesture-Recognition
+  git clone https://github.com/Reenook/Sign-Language-Recognition.git
+  cd Sign-Language-Recognition
 ```
 
 2. **Install Dependencies**:
