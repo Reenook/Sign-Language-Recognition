@@ -55,9 +55,9 @@ To run the gesture recognition script:
 
 To collect images for training:
 
-1. Create a directory within your python project which will hold all of your images or data and then make subfolders within that directory labeled by the sign whos image you want to capture. 
+1. Create a folder within your python project which will hold all of your images or data called `Images` and then make subfolders within that directory named after the sign whos image you want to capture. 
 
-2. Specify the path to the directory and specific folder by adjusting the folder variable (i.e: Images/Peace)
+2. Specify the path to the directory and specific folder by adjusting the folder variable (e.g, `Images/Peace`)
 
 3. Execute the data collection script:
    ```bash
