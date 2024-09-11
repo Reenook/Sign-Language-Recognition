@@ -61,7 +61,7 @@ To collect images for training:
 
 3. Execute the data collection script:
    ```bash
-   python Data_collection.py
+   python Data_Collection.py
    ```
 
 5. Press `s` to start capturing images , make sure to specify which directory those images will be saved in by changing the path in the folders variable 
